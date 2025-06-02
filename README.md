@@ -25,4 +25,8 @@ Enter the format: dd-mm-yy
 Handled Missing Values:
    - Filled empty cells in `director`, `cast`, and `country` with `"Unknown"` using Excel filters and Find & Replace.
 
+Outcome
+A clean, well-structured dataset saved as `netflix_titles_cleaned_dd-mm-yy.xlsx` that’s ready for data analysis.
+
+
 
